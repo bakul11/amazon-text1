@@ -1,0 +1,44 @@
+[
+    {
+        "name": "selina Gomes",
+        "photo": "./images/team1.jpg",
+        "message": "Social media has changed the way we express ourselves. When we’re not Instagramming our lunch or asking for likes, we’re taking to social media to voice our dreams, fears and occasionally, frustrations with our favorite brands.",
+        "client": "japan",
+        "rating": "4.5"
+    },
+    {
+        "name": "hemesh helen",
+        "photo": "./images/team2.jpg",
+        "message": "Social media has changed the way we express ourselves. When we’re not Instagramming our lunch or asking for likes, we’re taking to social media to voice our dreams, fears and occasionally, frustrations with our favorite brands.",
+        "client": "indian",
+        "rating": "4.4"
+    },
+    {
+        "name": "natasha nata",
+        "photo": "./images/team3.jpg",
+        "message": "Social media has changed the way we express ourselves. When we’re not Instagramming our lunch or asking for likes, we’re taking to social media to voice our dreams, fears and occasionally, frustrations with our favorite brands.",
+        "client": "china",
+        "rating": "4.6"
+    },
+    {
+        "name": "salman khan",
+        "photo": "./images/team4.jpg",
+        "message": "Social media has changed the way we express ourselves. When we’re not Instagramming our lunch or asking for likes, we’re taking to social media to voice our dreams, fears and occasionally, frustrations with our favorite brands.",
+        "client": "canada",
+        "rating": "4.4"
+    },
+    {
+        "name": "maria santa",
+        "photo": "./images/team5.jpg",
+        "message": "Social media has changed the way we express ourselves. When we’re not Instagramming our lunch or asking for likes, we’re taking to social media to voice our dreams, fears and occasionally, frustrations with our favorite brands.",
+        "client": "Bangladesh",
+        "rating": "4.7"
+    },
+    {
+        "name": "natasha nata",
+        "photo": "./images/team6.jpg",
+        "message": "Social media has changed the way we express ourselves. When we’re not Instagramming our lunch or asking for likes, we’re taking to social media to voice our dreams, fears and occasionally, frustrations with our favorite brands.",
+        "client": "nepal",
+        "rating": "4.8"
+    }
+]

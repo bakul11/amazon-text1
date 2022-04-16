@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01FKFJKSDFSDF555",
+        "name": "Asus Laptop",
+        "price": 200,
+        "quantity": 0,
+        "photo": "./images/laptop.jpg"
+    },
+    {
+        "id": "01FKFJKSDFSDF666",
+        "name": "USB 3 Port",
+        "price": 400,
+        "quantity": 0,
+        "photo": "./images/port.jpg"
+    },
+    {
+        "id": "01FKFJKSDFSDF111",
+        "name": "Mac watch",
+        "price": 700,
+        "quantity": 0,
+        "photo": "./images/mac.png"
+    },
+    {
+        "id": "01FKFJKSDFSDF222",
+        "name": "12.5 inch Monitor",
+        "price": 800,
+        "quantity": 0,
+        "photo": "./images/monitor.jpg"
+    }
+]
